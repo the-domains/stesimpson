@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ste Simpson]]></title>
+        <description><![CDATA[Ste Simpson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 23:39:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016]]></title>
+            <description><![CDATA[<article><h1>2016</h1><p>James Argent/Arg Band (The Only Way is Essex)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ce54ca4-298d-48f1-8b8e-bc65c94c0262.jpg"></article>]]></description>
+            <link>undefined6325e7ff-f655-479a-8f2a-6e833d243641/index.html</link>
+            <guid isPermaLink="false">6325e7ff-f655-479a-8f2a-6e833d243641</guid>
+            <pubDate>Sun, 10 Apr 2016 23:39:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
